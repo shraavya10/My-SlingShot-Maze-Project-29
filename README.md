@@ -1,2 +1,2 @@
-# My-SlingShot-Maze-Project-29
-I created a catapult for my slingshot maze.
+# p5.play-boilerplate
+Boiler plate for p5.play
